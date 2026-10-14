@@ -1,4 +1,4 @@
-# BetterTowny Wiki Starter
+# ModernMC Wiki Starter
 
 An editable, Markdown-first wiki starter for a modern Towny survival server. The pages are written to be safe to customize: replace bracketed placeholders and remove any feature that your server does not use.
 
